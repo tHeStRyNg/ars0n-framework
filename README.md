@@ -7,27 +7,6 @@
   <br>
 </h1>
 
-<h3 align="center"><em>THIS PROJECT HAS BEEN PUT ON HOLD AND IS NO LONGER BEING ACTIVELY SUPPORTED AT THIS TIME.  UPDATES WILL BE PROVIDED IN THE DISCORD SERVER WHEN AVAILABLE.</em></h3>
-
-<h4 align="center"><strong>Designed to Help Aspiring Researchers Start Their Bug Bounty Journey and "Earn While You Learn"</strong> -- <em>by rs0n</em></h4>
-
-
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#install">Install</a> •
-  <a href="#core-modules">Modules</a> •
-  <a href="#troubleshooting">Troubleshooting</a> •
-  <a href="#frequently-asked-questions">FAQs</a> •
-  <a href="https://ars0nsecurity.com" target=”_blank”>Ars0n Security</a> •
-  <a href="https://www.youtube.com/@rs0n_live" target=”_blank”>YouTube</a> •
-  <a href="https://www.twitch.tv/rs0n_live" target=”_blank”>Twitch</a> •
-  <a href="https://discord.gg/yeZ8d5xbvc" target=”_blank”>Discord</a>
-</p>
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=G89LTJRQC0M"><img src="static/thumbnail.png" width="600px" alt="Youtube Thumbnail"></a>
-</div>
-
 ## About
 
 Howdy!  My name is Harrison Richardson, or `rs0n` (arson) when I want to feel cooler than I really am.  The code in this repository started as a small collection of scripts to help automate many of the common Bug Bounty hunting processes I found myself repeating.  Over time, I built a simple web application with a MongoDB connection to manage my findings and identify valuable data points.  After 5 years of Bug Bounty hunting, both part-time and full-time, I'm finally ready to package this collection of tools into a proper framework.
