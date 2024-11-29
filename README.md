@@ -9,7 +9,7 @@
 
 <h3 align="center"><em>THIS PROJECT IS CURRENTLY IN CLOSED ALPHA.  CHECK YOUTUBE, LINKEDIN, OR HERE FOR UPDATES...</em></h3>
 
-<h4 align="center"><strong>Designed to Help Aspiring Researchers Start Their Bug Bounty Journey and "Earn While You Learn"</strong> -- <em>by rs0n</em></h4>
+<h4 align="center"><strong>Designed to Help Aspiring Researchers Start Their Bug Bounty Journey and "Earn While You Learn"</strong> -- <em></em></h4>
 
 
 <p align="center">
