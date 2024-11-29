@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <a href="https://www.linkedin.com/in/%E2%84%8C%F0%9D%94%9E%F0%9D%94%AF%F0%9D%94%AF%F0%9D%94%A6%F0%9D%94%B0%F0%9D%94%AC%F0%9D%94%AB-%E2%84%9C%F0%9D%94%A6%F0%9D%94%A0%F0%9D%94%A5%F0%9D%94%9E%F0%9D%94%AF%F0%9D%94%A1%F0%9D%94%B0%F0%9D%94%AC%F0%9D%94%AB-%F0%9D%96%A2%F0%9D%96%A8%F0%9D%96%B2%F0%9D%96%B2%F0%9D%96%AF-%F0%9D%96%AE%F0%9D%96%B2%F0%9D%96%B6%F0%9D%96%A4-%F0%9D%96%AC%F0%9D%96%B2%F0%9D%96%BC-7a55bb158/"><img src="static/rs0n-logo.png" width="200px" alt="Arson Logo"></a>
+  <a href="https://www.linkedin.com/in/thestryng/"><img src="static/rs0n-logo.png" width="200px" alt="Arson Logo"></a>
   <br>
   The Ars0n Framework
   <br>
@@ -18,14 +18,10 @@
   <a href="#core-modules">Modules</a> •
   <a href="#troubleshooting">Troubleshooting</a> •
   <a href="#frequently-asked-questions">FAQs</a> •
-  <a href="https://ars0nsecurity.com" target=”_blank”>Ars0n Security</a> •
-  <a href="https://www.youtube.com/@rs0n_live" target=”_blank”>YouTube</a> •
-  <a href="https://www.twitch.tv/rs0n_live" target=”_blank”>Twitch</a>
+
 </p>
 
 ## About
-
-Howdy!  My name is Harrison Richardson, or `rs0n` (arson) when I want to feel cooler than I really am.  The code in this repository started as a small collection of scripts to help automate many of the common Bug Bounty hunting processes I found myself repeating.  Over time, I built a simple web application with a MongoDB connection to manage my findings and identify valuable data points.  After 5 years of Bug Bounty hunting, both part-time and full-time, I'm finally ready to package this collection of tools into a proper framework.
 
 **The Ars0n Framework** is designed to provide aspiring Application Security Engineers with all the tools they need to leverage Bug Bounty hunting as a means to learn valuable, real-world AppSec concepts and make 💰 doing it!  My goal is to lower the barrier of entry for Bug Bounty hunting by providing easy-to-use automation tools in combination with educational content and how-to guides for a wide range of Web-based and Cloud-based vulnerabilities.  In combination with my YouTube content, this framework will help aspiring Application Security Engineers to quickly and easily understand real-world security concepts that directly translate to a high paying career in Cyber Security.  
 
